@@ -1,0 +1,6 @@
+title: Stoic
+description: >
+  Stoic is a mobile application that brings you daily quotes and insights from Stoic philosophers.
+theme: minima
+# Other configurations
+markdown: kramdown
